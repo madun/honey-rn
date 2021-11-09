@@ -1,5 +1,5 @@
 import React from 'react';
-import { Column, Box } from 'native-base';
+import { Column, Box } from 'honey-rn';
 
 export const Example = () => {
   return (

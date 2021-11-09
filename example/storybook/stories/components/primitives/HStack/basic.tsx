@@ -1,5 +1,5 @@
 import React from 'react';
-import { HStack, Stack, Center, Heading } from 'native-base';
+import { HStack, Stack, Center, Heading } from 'honey-rn';
 
 export function Example() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextField, Select } from 'native-base';
+import { TextField, Select } from 'honey-rn';
 
 export const Example = () => {
   let [language, setLanguage] = React.useState<string>('');

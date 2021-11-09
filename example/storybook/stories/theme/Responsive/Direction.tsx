@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Avatar } from 'native-base';
+import { Box, Avatar } from 'honey-rn';
 export const Example = () => {
   return (
     <Box

@@ -7,7 +7,7 @@ import {
   NumberIncrementStepper,
   NumberDecrementStepper,
   Slider,
-} from 'native-base';
+} from 'honey-rn';
 export const Example = () => {
   const [value, setValue] = React.useState(20);
   return (

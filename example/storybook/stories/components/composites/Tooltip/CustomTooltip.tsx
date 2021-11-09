@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tooltip, Button } from 'native-base';
+import { Tooltip, Button } from 'honey-rn';
 
 export function Example() {
   return (

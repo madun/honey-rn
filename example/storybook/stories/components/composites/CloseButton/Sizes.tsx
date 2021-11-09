@@ -1,5 +1,5 @@
 import React from 'react';
-import { CloseButton, HStack } from 'native-base';
+import { CloseButton, HStack } from 'honey-rn';
 export const Example = () => {
   return (
     <HStack space="md">

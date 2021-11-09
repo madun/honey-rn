@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeBaseProvider, Box, Text, useSafeArea } from 'native-base';
+import { NativeBaseProvider, Box, Text, useSafeArea } from 'honey-rn';
 function MyComponent() {
   const safeAreaProps = useSafeArea({ safeAreaTop: true, pt: 2 });
   return (

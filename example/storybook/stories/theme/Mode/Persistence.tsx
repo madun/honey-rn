@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeBaseProvider, StorageManager, ColorMode } from 'native-base';
+import { NativeBaseProvider, StorageManager, ColorMode } from 'honey-rn';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Content } from './Content';
 

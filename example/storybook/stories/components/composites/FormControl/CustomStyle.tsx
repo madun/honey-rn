@@ -7,7 +7,7 @@ import {
   Divider,
   Box,
   WarningOutlineIcon,
-} from 'native-base';
+} from 'honey-rn';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 
 export const Example = () => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconButton, Icon } from 'native-base';
+import { IconButton, Icon } from 'honey-rn';
 import { Entypo } from '@expo/vector-icons';
 
 export const Example = () => {

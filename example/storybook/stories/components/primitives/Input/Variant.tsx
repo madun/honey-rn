@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input, Stack, Center, Heading } from 'native-base';
+import { Input, Stack, Center, Heading } from 'honey-rn';
 export const Example = () => {
   return (
     <Stack space={4} w={{ base: '75%', md: '25%' }}>

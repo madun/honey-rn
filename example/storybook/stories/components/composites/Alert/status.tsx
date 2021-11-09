@@ -7,7 +7,7 @@ import {
   VStack,
   CloseIcon,
   Text,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   const statusArray = [

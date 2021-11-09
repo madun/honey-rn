@@ -1,5 +1,5 @@
 import React from 'react';
-import { Icon, Heading, Center, VStack } from 'native-base';
+import { Icon, Heading, Center, VStack } from 'honey-rn';
 import { Ionicons } from '@expo/vector-icons';
 
 export const Example = () => {

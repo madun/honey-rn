@@ -7,7 +7,7 @@ import {
   VStack,
   Divider,
   Box,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   return (

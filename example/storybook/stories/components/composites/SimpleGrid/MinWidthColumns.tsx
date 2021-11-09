@@ -1,4 +1,4 @@
-import { SimpleGrid, Box } from 'native-base';
+import { SimpleGrid, Box } from 'honey-rn';
 import React from 'react';
 
 const items = 12;

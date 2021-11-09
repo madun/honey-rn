@@ -1,5 +1,5 @@
 import React from 'react';
-import { Skeleton, Stack } from 'native-base';
+import { Skeleton, Stack } from 'honey-rn';
 export const Example = () => {
   return (
     <Stack w="50%">
@@ -9,7 +9,7 @@ export const Example = () => {
         h={20}
         speed={10}
         endColor="green.500"
-      ></Skeleton>
+      />
     </Stack>
   );
 };

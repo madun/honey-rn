@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, HStack } from 'native-base';
+import { Tag, HStack } from 'honey-rn';
 
 export const Example = () => {
   return (

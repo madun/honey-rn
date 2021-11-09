@@ -7,7 +7,7 @@ import {
   Avatar,
   HStack,
   Image,
-} from 'native-base';
+} from 'honey-rn';
 
 function CompositionComponent() {
   const [loaded, setLoaded] = useState(false);

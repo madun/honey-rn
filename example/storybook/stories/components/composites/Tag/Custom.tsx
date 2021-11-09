@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, Avatar } from 'native-base';
+import { Tag, Avatar } from 'honey-rn';
 
 export const Example = () => {
   return (

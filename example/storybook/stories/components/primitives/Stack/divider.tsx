@@ -1,5 +1,5 @@
 import React from 'react';
-import { Stack, Divider, Box } from 'native-base';
+import { Stack, Divider, Box } from 'honey-rn';
 
 export function Example() {
   return (

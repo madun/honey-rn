@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Actionsheet, useDisclose, Icon, Box, Text } from 'native-base';
+import { Button, Actionsheet, useDisclose, Icon, Box, Text } from 'honey-rn';
 import { Path } from 'react-native-svg';
 import { MaterialIcons, Ionicons } from '@expo/vector-icons';
 

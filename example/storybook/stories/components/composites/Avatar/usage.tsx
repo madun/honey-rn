@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar, HStack } from 'native-base';
+import { Avatar, HStack } from 'honey-rn';
 
 export const Example = () => {
   return (

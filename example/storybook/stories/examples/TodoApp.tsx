@@ -9,7 +9,7 @@ import {
   HStack,
   Heading,
   Icon,
-} from 'native-base';
+} from 'honey-rn';
 import { Feather, Entypo } from '@expo/vector-icons';
 
 export const Example = () => {

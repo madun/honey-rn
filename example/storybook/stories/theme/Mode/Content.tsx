@@ -7,7 +7,7 @@ import {
   HStack,
   Avatar,
   Center,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Content = () => {
   const { colorMode, toggleColorMode } = useColorMode();

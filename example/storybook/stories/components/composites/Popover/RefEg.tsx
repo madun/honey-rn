@@ -1,5 +1,5 @@
 import React from 'react';
-import { Popover, Button, Input, FormControl, Box } from 'native-base';
+import { Popover, Button, Input, FormControl, Box } from 'honey-rn';
 
 export function Example() {
   const initialFocusRef = React.useRef(null);

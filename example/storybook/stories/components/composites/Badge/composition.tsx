@@ -1,5 +1,5 @@
 import React from 'react';
-import { Badge, Button, VStack } from 'native-base';
+import { Badge, Button, VStack } from 'honey-rn';
 
 export function Example() {
   return (

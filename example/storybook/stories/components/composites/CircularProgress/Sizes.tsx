@@ -1,5 +1,5 @@
 import React from 'react';
-import { CircularProgress, Heading, Center, VStack } from 'native-base';
+import { CircularProgress, Heading, Center, VStack } from 'honey-rn';
 export const Example = () => {
   return (
     <Center>

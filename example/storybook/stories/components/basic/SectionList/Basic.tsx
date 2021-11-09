@@ -1,5 +1,5 @@
 import React from 'react';
-import { SectionList, Heading, Center } from 'native-base';
+import { SectionList, Heading, Center } from 'honey-rn';
 export const Example = () => {
   const data = [
     {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, VStack, Icon } from 'native-base';
+import { Checkbox, VStack, Icon } from 'honey-rn';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 export const Example = () => {

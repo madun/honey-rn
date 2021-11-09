@@ -5,7 +5,7 @@ import {
   Stack,
   WarningOutlineIcon,
   Box,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   return (

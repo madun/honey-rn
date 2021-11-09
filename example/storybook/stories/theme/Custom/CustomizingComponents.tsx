@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeBaseProvider, themeTools, extendTheme } from 'native-base';
+import { NativeBaseProvider, themeTools, extendTheme } from 'honey-rn';
 import { Content } from './Content';
 
 export const Example = () => {

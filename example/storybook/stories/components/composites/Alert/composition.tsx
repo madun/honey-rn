@@ -7,7 +7,7 @@ import {
   HStack,
   VStack,
   Text,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   return (

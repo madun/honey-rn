@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, extendTheme, Center, NativeBaseProvider } from 'native-base';
+import { Text, extendTheme, Center, NativeBaseProvider } from 'honey-rn';
 
 export const Example = () => {
   const theme = extendTheme({

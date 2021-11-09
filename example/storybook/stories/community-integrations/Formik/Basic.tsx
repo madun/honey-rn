@@ -1,4 +1,4 @@
-import { Input, Button, FormControl } from 'native-base';
+import { Input, Button, FormControl } from 'honey-rn';
 import React from 'react';
 import { useFormik, FormikErrors } from 'formik';
 
@@ -24,7 +24,7 @@ export const Example = () => {
       console.log('Handle submit', values);
     },
     validate: (values) => {
-      let errors: FormikErrors<IFormFields> = {};
+      const errors: FormikErrors<IFormFields> = {};
       if (!values.firstName) {
         errors.firstName = 'Required';
       } else if (values.firstName.length > 15) {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextArea, Stack, ScrollView, Center, Heading } from 'native-base';
+import { TextArea, Stack, ScrollView, Center, Heading } from 'honey-rn';
 
 export const Example = () => {
   const Sizes = ['xs', 'sm', 'md', 'lg', 'xl', '2xl'];

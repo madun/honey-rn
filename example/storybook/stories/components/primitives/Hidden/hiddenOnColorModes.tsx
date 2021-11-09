@@ -1,5 +1,5 @@
 import React from 'react';
-import { Hidden, Text, Button, Box, useColorMode } from 'native-base';
+import { Hidden, Text, Button, Box, useColorMode } from 'honey-rn';
 
 export function ColorModeExample() {
   const { colorMode, toggleColorMode } = useColorMode();

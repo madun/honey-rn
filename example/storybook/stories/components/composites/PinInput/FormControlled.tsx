@@ -1,5 +1,5 @@
 import React from 'react';
-import { PinInput, Center, FormControl } from 'native-base';
+import { PinInput, Center, FormControl } from 'honey-rn';
 
 export const Example = () => {
   return (

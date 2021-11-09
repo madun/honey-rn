@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, useContrastText } from 'native-base';
+import { Button, useContrastText } from 'honey-rn';
 export const Example = () => {
   const bgDark = 'gray.900';
   const bgLight = 'gray.50';

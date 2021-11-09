@@ -1,5 +1,5 @@
 import React from 'react';
-import { Factory } from 'native-base';
+import { Factory } from 'honey-rn';
 import { View } from 'react-native';
 
 export const Example = () => {

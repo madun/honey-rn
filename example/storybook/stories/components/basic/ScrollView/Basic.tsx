@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, VStack, Center, useTheme, Heading } from 'native-base';
+import { ScrollView, VStack, Center, useTheme, Heading } from 'honey-rn';
 export const Example = () => {
   const { colors } = useTheme();
   return (

@@ -4,7 +4,7 @@ import {
   useContrastText,
   useAccessibleColors,
   useTheme,
-} from 'native-base';
+} from 'honey-rn';
 
 const ButtonTemplate = ({ shade }: any) => {
   const colorContrast = useContrastText(`teal.${shade}`);

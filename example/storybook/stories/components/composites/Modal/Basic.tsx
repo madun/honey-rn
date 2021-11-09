@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Modal, FormControl, Input } from 'native-base';
+import { Button, Modal, FormControl, Input } from 'honey-rn';
 import { useState } from 'react';
 
 export const Example = () => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from 'native-base';
+import { Button } from 'honey-rn';
 
 export const Example = () => {
   const myRef = React.useRef({});

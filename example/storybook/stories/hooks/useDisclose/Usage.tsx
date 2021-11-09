@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, Button, useDisclose } from 'native-base';
+import { Modal, Button, useDisclose } from 'honey-rn';
 
 export const Example = () => {
   const { isOpen, onOpen, onClose } = useDisclose();

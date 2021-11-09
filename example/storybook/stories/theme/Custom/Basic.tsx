@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heading, VStack, NativeBaseProvider, extendTheme } from 'native-base';
+import { Heading, VStack, NativeBaseProvider, extendTheme } from 'honey-rn';
 
 export const Example = () => {
   const theme = extendTheme({

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Tabs } from 'native-base';
+import { Box, Tabs } from 'honey-rn';
 
 export const Example = () => {
   return (

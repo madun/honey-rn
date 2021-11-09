@@ -1,5 +1,5 @@
 import React from 'react';
-import { CircularProgress, Heading, Center, Box, Text } from 'native-base';
+import { CircularProgress, Heading, Center, Box, Text } from 'honey-rn';
 import { number } from '@storybook/addon-knobs';
 export const Example = () => {
   return (

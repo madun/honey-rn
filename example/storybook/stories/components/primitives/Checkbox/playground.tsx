@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, Box } from 'native-base';
+import { Checkbox, Box } from 'honey-rn';
 import { boolean, select, text } from '@storybook/addon-knobs';
 
 export const Example = () => {

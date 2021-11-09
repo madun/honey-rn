@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox } from 'native-base';
+import { Checkbox } from 'honey-rn';
 
 export const Example = () => {
   const [groupValues, setGroupValues] = React.useState([]);

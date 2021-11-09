@@ -1,4 +1,4 @@
-import { Fab, Icon, Text, NativeBaseProvider, Box } from 'native-base';
+import { Fab, Icon, Text, NativeBaseProvider, Box } from 'honey-rn';
 import React from 'react';
 import { AntDesign } from '@expo/vector-icons';
 

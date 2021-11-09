@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Text } from 'native-base';
+import { Link, Text } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Skeleton, HStack, VStack } from 'native-base';
+import { Skeleton, HStack, VStack } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Spinner, VStack, Heading } from 'native-base';
+import { Spinner, VStack, Heading } from 'honey-rn';
 
 export const Example = () => {
   return (

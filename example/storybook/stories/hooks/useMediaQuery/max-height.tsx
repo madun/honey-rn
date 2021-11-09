@@ -9,7 +9,7 @@ import {
   Center,
   Stack,
   Heading,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const [isSmallScreen] = useMediaQuery({ minHeight: 280, maxHeight: 480 });

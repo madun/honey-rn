@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, HStack, VStack, Input, useClipboard } from 'native-base';
+import { Button, HStack, VStack, Input, useClipboard } from 'honey-rn';
 
 export const Example = () => {
   const [copyText, setCopyText] = React.useState('Hello');

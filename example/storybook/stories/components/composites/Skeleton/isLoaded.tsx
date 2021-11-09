@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Skeleton, Text, Avatar, Box } from 'native-base';
+import { Skeleton, Text, Avatar, Box } from 'honey-rn';
 export const Example = () => {
   const [isLoaded, setIsLoaded] = useState(false);
   const [text, setText] = useState('');

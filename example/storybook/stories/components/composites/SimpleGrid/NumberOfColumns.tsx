@@ -1,4 +1,4 @@
-import { SimpleGrid, Center } from 'native-base';
+import { SimpleGrid, Center } from 'honey-rn';
 import React from 'react';
 
 const items = 12;

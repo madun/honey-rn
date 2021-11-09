@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accordion, Box } from 'native-base';
+import { Accordion, Box } from 'honey-rn';
 export const Example = () => {
   return (
     <Box m={3}>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Menu, Divider, HamburgerIcon, Box, Pressable } from 'native-base';
+import { Menu, Divider, HamburgerIcon, Box, Pressable } from 'honey-rn';
 
 export function Example() {
   return (

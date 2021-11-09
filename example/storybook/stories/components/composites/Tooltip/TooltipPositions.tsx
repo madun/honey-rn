@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tooltip, Button, VStack, Select, CheckIcon } from 'native-base';
+import { Tooltip, Button, VStack, Select, CheckIcon } from 'honey-rn';
 
 export function Example() {
   const [position, setPosition] = React.useState('top left');

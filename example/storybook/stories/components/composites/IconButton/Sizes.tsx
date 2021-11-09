@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconButton, Box, Center, Heading, VStack } from 'native-base';
+import { IconButton, Box, Center, Heading, VStack } from 'honey-rn';
 import { MaterialIcons } from '@expo/vector-icons';
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, SearchIcon } from 'native-base';
+import { List, SearchIcon } from 'honey-rn';
 
 export const Example = () => {
   return (

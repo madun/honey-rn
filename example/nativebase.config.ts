@@ -1,4 +1,4 @@
-import { INativebaseConfig } from 'native-base';
+import { INativebaseConfig } from 'honey-rn';
 
 export default {
   dependencies: {

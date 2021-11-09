@@ -8,7 +8,7 @@ import {
   Center,
   HStack,
   Stack,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   return (

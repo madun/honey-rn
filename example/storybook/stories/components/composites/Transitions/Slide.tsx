@@ -7,7 +7,7 @@ import {
   Heading,
   Divider,
   Center,
-} from 'native-base';
+} from 'honey-rn';
 export const Example = () => {
   const [isOpenBottom, setIsOpenBottom] = React.useState(false);
   const [isOpenTop, setIsOpenTop] = React.useState(false);

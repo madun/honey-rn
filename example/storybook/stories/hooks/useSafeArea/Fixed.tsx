@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeBaseProvider, Box, Text } from 'native-base';
+import { NativeBaseProvider, Box, Text } from 'honey-rn';
 function MyComponent() {
   return (
     // This would look same on all devices

@@ -8,7 +8,7 @@ import {
   VStack,
   Text,
   Spacer,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const data = [

@@ -1,4 +1,4 @@
-import { Fab, Icon, Box } from 'native-base';
+import { Fab, Icon, Box } from 'honey-rn';
 import React from 'react';
 import { MaterialIcons } from '@expo/vector-icons';
 

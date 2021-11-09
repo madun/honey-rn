@@ -1,4 +1,4 @@
-import { VStack, Input, Button, FormControl } from 'native-base';
+import { VStack, Input, Button, FormControl } from 'honey-rn';
 import React from 'react';
 import { useForm, Controller } from 'react-hook-form';
 

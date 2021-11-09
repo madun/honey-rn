@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextArea } from 'native-base';
+import { TextArea } from 'honey-rn';
 
 export const Example = () => {
   return (

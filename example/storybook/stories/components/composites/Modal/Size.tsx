@@ -8,7 +8,7 @@ import {
   Heading,
   Center,
   VStack,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   const [modalVisible, setModalVisible] = React.useState(false);

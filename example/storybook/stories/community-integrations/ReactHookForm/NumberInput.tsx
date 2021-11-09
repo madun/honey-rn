@@ -7,7 +7,7 @@ import {
   NumberInputStepper,
   NumberIncrementStepper,
   NumberDecrementStepper,
-} from 'native-base';
+} from 'honey-rn';
 import React from 'react';
 import { useForm, Controller } from 'react-hook-form';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, Box } from 'native-base';
+import { Image, Box } from 'honey-rn';
 export function Example() {
   return (
     <Image

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, Button, Input, FormControl } from 'native-base';
+import { Modal, Button, Input, FormControl } from 'honey-rn';
 
 export function Example() {
   const [modalVisible, setModalVisible] = React.useState(false);

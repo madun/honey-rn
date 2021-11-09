@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, TextArea, Text, Stack, Divider } from 'native-base';
+import { Box, TextArea, Text, Stack, Divider } from 'honey-rn';
 
 export const Example = () => {
   return (

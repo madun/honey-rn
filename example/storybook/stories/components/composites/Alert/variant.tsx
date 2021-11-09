@@ -7,7 +7,7 @@ import {
   Text,
   Divider,
   ScrollView,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   const getTextColor = (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { NativeBaseProvider, Text, Box } from 'native-base';
+import { NativeBaseProvider, Text, Box } from 'honey-rn';
 function MyComponent() {
   return (
     // This would look different on devices with different insets

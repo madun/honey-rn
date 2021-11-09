@@ -1,5 +1,5 @@
 import React from 'react';
-import { ZStack, Box } from 'native-base';
+import { ZStack, Box } from 'honey-rn';
 
 export const Example = () => {
   return (

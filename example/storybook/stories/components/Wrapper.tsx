@@ -11,8 +11,8 @@ import {
   SunIcon,
   extendTheme,
   Button,
-} from 'native-base';
-import type { StorageManager } from 'native-base';
+} from 'honey-rn';
+import type { StorageManager } from 'honey-rn';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import Config from '../../../nativebase.config';
@@ -33,7 +33,7 @@ const myTheme = extendTheme({
 });
 
 type MyThemeType = typeof myTheme;
-declare module 'native-base' {
+declare module 'honey-rn' {
   interface ICustomTheme extends MyThemeType {}
 }
 
@@ -83,7 +83,7 @@ export default ({ children, theme }: any) => {
   const colorModeManager: StorageManager = {
     get: async () => {
       try {
-        let val = await AsyncStorage.getItem('@example-wrapper-mode');
+        const val = await AsyncStorage.getItem('@example-wrapper-mode');
         return val === 'dark' ? 'dark' : 'light';
       } catch (e) {
         console.log(e);

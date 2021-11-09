@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typeahead, Icon, Spinner, Center } from 'native-base';
+import { Typeahead, Icon, Spinner, Center } from 'honey-rn';
 import { MaterialIcons } from '@expo/vector-icons';
 
 const animals = [

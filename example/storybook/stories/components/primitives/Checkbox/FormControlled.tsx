@@ -5,7 +5,7 @@ import {
   Text,
   Container,
   WarningOutlineIcon,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const [groupValue, setGroupValue] = React.useState(['Phone', 'Email']);

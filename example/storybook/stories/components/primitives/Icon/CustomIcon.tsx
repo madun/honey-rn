@@ -1,5 +1,5 @@
 import React from 'react';
-import { Icon } from 'native-base';
+import { Icon } from 'honey-rn';
 import { Path, G } from 'react-native-svg';
 export const Example = () => {
   return (

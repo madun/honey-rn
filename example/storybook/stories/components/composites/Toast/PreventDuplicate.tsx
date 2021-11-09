@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, useToast } from 'native-base';
+import { Button, useToast } from 'honey-rn';
 
 export function Example() {
   const toast = useToast();

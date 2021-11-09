@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, Icon } from 'native-base';
+import { Checkbox, Icon } from 'honey-rn';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { Platform } from 'react-native';
 

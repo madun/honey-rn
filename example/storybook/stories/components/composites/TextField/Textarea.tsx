@@ -1,5 +1,5 @@
 import React from 'react';
-import { Stack, TextField, Button } from 'native-base';
+import { Stack, TextField, Button } from 'honey-rn';
 
 export const Example = () => {
   const [isInvalid, setIsInvalid] = React.useState(false);

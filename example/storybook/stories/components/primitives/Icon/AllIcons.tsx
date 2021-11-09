@@ -29,7 +29,7 @@ import {
   VStack,
   FlatList,
   useBreakpointValue,
-} from 'native-base';
+} from 'honey-rn';
 export const Example = () => {
   const cols = useBreakpointValue({
     base: 3,

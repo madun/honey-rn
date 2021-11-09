@@ -1,5 +1,5 @@
 import React from 'react';
-import { Center, Row } from 'native-base';
+import { Center, Row } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Radio } from 'native-base';
+import { Radio } from 'honey-rn';
 
 export const Example = () => {
   const [value, setValue] = React.useState('one');

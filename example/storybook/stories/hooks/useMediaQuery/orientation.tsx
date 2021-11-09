@@ -9,7 +9,7 @@ import {
   Center,
   Stack,
   HStack,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const [isLandScape, isPortrait] = useMediaQuery([

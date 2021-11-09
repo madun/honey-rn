@@ -1,5 +1,5 @@
 import React from 'react';
-import { Breadcrumb, Box, Heading } from 'native-base';
+import { Breadcrumb, Box, Heading } from 'honey-rn';
 export const Example = () => {
   return (
     <Box>

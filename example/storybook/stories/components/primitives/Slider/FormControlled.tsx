@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormControl, Slider, VStack, WarningOutlineIcon } from 'native-base';
+import { FormControl, Slider, VStack, WarningOutlineIcon } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Text, Box, Flex, HStack, Spacer, Heading } from 'native-base';
+import { Link, Text, Box, Flex, HStack, Spacer, Heading } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Factory, themeTools } from 'native-base';
+import { Factory, themeTools } from 'honey-rn';
 import { View } from 'react-native';
 
 export const Example = () => {

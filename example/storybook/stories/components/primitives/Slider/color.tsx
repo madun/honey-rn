@@ -1,5 +1,5 @@
 import React from 'react';
-import { Slider, Heading, VStack } from 'native-base';
+import { Slider, Heading, VStack } from 'honey-rn';
 
 export const Example = () => {
   return (

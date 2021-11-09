@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Divider, Heading, VStack, Center } from 'native-base';
+import { Button, Divider, Heading, VStack, Center } from 'honey-rn';
 
 export const Example = () => {
   return (

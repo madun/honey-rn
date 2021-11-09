@@ -1,5 +1,5 @@
 import React from 'react';
-import { Alert, Box, CloseIcon, IconButton } from 'native-base';
+import { Alert, Box, CloseIcon, IconButton } from 'honey-rn';
 import { select } from '@storybook/addon-knobs';
 
 export const Example = () => {

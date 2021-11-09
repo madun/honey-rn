@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Text, Heading } from 'native-base';
+import { Container, Text, Heading } from 'honey-rn';
 export function Example() {
   return (
     <Container>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Progress, Heading, Center } from 'native-base';
+import { Box, Progress, Heading, Center } from 'honey-rn';
 
 export const Example = () => {
   return (

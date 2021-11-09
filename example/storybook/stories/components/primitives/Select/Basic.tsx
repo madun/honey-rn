@@ -1,5 +1,5 @@
 import React from 'react';
-import { Select, VStack, CheckIcon } from 'native-base';
+import { Select, VStack, CheckIcon } from 'honey-rn';
 
 export const Example = () => {
   let [service, setService] = React.useState('');

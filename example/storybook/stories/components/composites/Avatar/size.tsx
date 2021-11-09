@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar, VStack, Heading, Center } from 'native-base';
+import { Avatar, VStack, Heading, Center } from 'honey-rn';
 
 export const Example = () => {
   return (

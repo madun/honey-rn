@@ -1,6 +1,6 @@
 //@ts-nocheck
 import React from 'react';
-import { Button, Modal, Stack, FormControl, Input } from 'native-base';
+import { Button, Modal, Stack, FormControl, Input } from 'honey-rn';
 import { useState } from 'react';
 
 export const Example = () => {

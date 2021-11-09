@@ -1,5 +1,5 @@
 import React from 'react';
-import { Menu, Button, VStack, Select, CheckIcon } from 'native-base';
+import { Menu, Button, VStack, Select, CheckIcon } from 'honey-rn';
 
 export function Example() {
   const [shouldOverlapWithTrigger] = React.useState(false);

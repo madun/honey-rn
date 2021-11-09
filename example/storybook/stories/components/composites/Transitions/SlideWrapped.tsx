@@ -9,7 +9,7 @@ import {
   HStack,
   Text,
   CheckIcon,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const [isOpen, setIsOpen] = React.useState(false);

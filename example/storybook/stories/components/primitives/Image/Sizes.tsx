@@ -1,5 +1,5 @@
 import React from 'react';
-import { VStack, Image, ScrollView, Heading, Center } from 'native-base';
+import { VStack, Image, ScrollView, Heading, Center } from 'honey-rn';
 export function Example() {
   return (
     <ScrollView px="20">

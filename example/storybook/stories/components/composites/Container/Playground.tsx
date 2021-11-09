@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heading, Container, Text } from 'native-base';
+import { Heading, Container, Text } from 'honey-rn';
 import { boolean, text } from '@storybook/addon-knobs';
 
 export const Example = () => {

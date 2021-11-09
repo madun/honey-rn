@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar } from 'native-base';
+import { Avatar } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, Icon } from 'native-base';
+import { Tag, Icon } from 'honey-rn';
 import { MaterialIcons } from '@expo/vector-icons';
 
 export const Example = () => {

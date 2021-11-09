@@ -6,7 +6,7 @@ import {
   InputLeftAddon,
   InputRightAddon,
   Stack,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   return (

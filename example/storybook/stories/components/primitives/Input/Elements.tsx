@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input, Icon, Stack } from 'native-base';
+import { Input, Icon, Stack } from 'honey-rn';
 import { MaterialIcons } from '@expo/vector-icons';
 
 export const Example = () => {

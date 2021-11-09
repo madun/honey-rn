@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Actionsheet, useDisclose, Text, Box } from 'native-base';
+import { Button, Actionsheet, useDisclose, Text, Box } from 'honey-rn';
 
 export function Example() {
   const { isOpen, onOpen, onClose } = useDisclose();

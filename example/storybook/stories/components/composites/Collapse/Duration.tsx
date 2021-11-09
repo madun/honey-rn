@@ -1,5 +1,5 @@
 import React from 'react';
-import { Collapse, Stack, Heading, Text, Button } from 'native-base';
+import { Collapse, Stack, Heading, Text, Button } from 'honey-rn';
 
 export const Example = () => {
   const [show, setShow] = React.useState(false);

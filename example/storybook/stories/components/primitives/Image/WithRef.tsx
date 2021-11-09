@@ -1,6 +1,6 @@
 //@ts-nocheck
 import React from 'react';
-import { Image } from 'native-base';
+import { Image } from 'honey-rn';
 
 export function Example() {
   const myRef = React.useRef(null);

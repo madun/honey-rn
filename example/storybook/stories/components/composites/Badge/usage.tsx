@@ -1,5 +1,5 @@
 import React from 'react';
-import { Badge } from 'native-base';
+import { Badge } from 'honey-rn';
 
 export function Example() {
   return <Badge>NEW FEATURE</Badge>;

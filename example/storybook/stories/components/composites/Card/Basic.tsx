@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, HStack, Heading, Text, Spacer, Flex } from 'native-base';
+import { Card, HStack, Heading, Text, Spacer, Flex } from 'honey-rn';
 
 export function Example() {
   return (

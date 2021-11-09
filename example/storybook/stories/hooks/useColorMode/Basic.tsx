@@ -5,7 +5,7 @@ import {
   Text,
   Button,
   Center,
-} from 'native-base';
+} from 'honey-rn';
 
 function UseColorMode() {
   const { colorMode, toggleColorMode } = useColorMode();

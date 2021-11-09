@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, VStack, Center, Heading } from 'native-base';
+import { Checkbox, VStack, Center, Heading } from 'honey-rn';
 
 export const Example = () => {
   return (

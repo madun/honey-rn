@@ -1,5 +1,5 @@
 import React from 'react';
-import { Slider, Box } from 'native-base';
+import { Slider, Box } from 'honey-rn';
 
 export const Example = () => {
   return (

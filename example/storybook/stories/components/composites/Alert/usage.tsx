@@ -7,7 +7,7 @@ import {
   CloseIcon,
   Box,
   Text,
-} from 'native-base';
+} from 'honey-rn';
 export function Example() {
   return (
     <Alert w="100%" status="info" colorScheme="info">

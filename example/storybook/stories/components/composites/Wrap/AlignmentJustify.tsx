@@ -1,5 +1,5 @@
 import React from 'react';
-import { Wrap, Center } from 'native-base';
+import { Wrap, Center } from 'honey-rn';
 export const Example = () => {
   return (
     <Wrap space={10} justify="center" direction="row">

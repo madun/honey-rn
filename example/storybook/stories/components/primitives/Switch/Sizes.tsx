@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, VStack, Heading } from 'native-base';
+import { Switch, VStack, Heading } from 'honey-rn';
 
 export const Example = () => {
   return (

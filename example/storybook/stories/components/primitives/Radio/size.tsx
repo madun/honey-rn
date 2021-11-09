@@ -1,5 +1,5 @@
 import React from 'react';
-import { Center, Heading, Radio } from 'native-base';
+import { Center, Heading, Radio } from 'honey-rn';
 
 export const Example = () => {
   return (

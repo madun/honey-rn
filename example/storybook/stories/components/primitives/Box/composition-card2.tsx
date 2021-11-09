@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Heading, Image, Text, Stack } from 'native-base';
+import { Box, Heading, Image, Text, Stack } from 'honey-rn';
 export const Example = () => {
   return (
     <Box rounded="25" w="100%" shadow={4} mx={{ base: 'auto', md: 0 }}>

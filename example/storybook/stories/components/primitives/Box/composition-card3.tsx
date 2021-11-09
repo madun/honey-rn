@@ -8,7 +8,7 @@ import {
   HStack,
   Stack,
   Center,
-} from 'native-base';
+} from 'honey-rn';
 import { Feather, AntDesign } from '@expo/vector-icons';
 
 export const Example = () => {

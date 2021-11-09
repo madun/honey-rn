@@ -1,4 +1,4 @@
-import type { IBoxProps } from 'native-base';
+import type { IBoxProps } from 'honey-rn';
 
 export type ITypeaheadProps = IBoxProps<ITypeaheadProps> & {
   options: any[];

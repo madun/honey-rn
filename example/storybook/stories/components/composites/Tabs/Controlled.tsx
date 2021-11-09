@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tabs, Text } from 'native-base';
+import { Tabs, Text } from 'honey-rn';
 
 export const Example = () => {
   const [index, setIndex] = React.useState(0);

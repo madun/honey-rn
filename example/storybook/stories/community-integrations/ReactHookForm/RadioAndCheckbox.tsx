@@ -6,7 +6,7 @@ import {
   Checkbox,
   Text,
   Icon,
-} from 'native-base';
+} from 'honey-rn';
 import React from 'react';
 import { useForm, Controller } from 'react-hook-form';
 import { MaterialCommunityIcons } from '@expo/vector-icons';

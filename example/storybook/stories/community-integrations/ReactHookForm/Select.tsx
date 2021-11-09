@@ -1,4 +1,4 @@
-import { VStack, Button, FormControl, Select, Icon } from 'native-base';
+import { VStack, Button, FormControl, Select, Icon } from 'honey-rn';
 import React from 'react';
 import { useForm, Controller } from 'react-hook-form';
 import { MaterialIcons } from '@expo/vector-icons';

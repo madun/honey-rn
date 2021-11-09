@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input } from 'native-base';
+import { Input } from 'honey-rn';
 
 export const Example = () => {
   const [value, setValue] = React.useState('');

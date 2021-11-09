@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  Box,
-  useDisclose,
-  IconButton,
-  Stagger,
-  HStack,
-  Icon,
-} from 'native-base';
+import { Box, useDisclose, IconButton, Stagger, HStack, Icon } from 'honey-rn';
 import { MaterialCommunityIcons, MaterialIcons } from '@expo/vector-icons';
 
 export const Example = () => {

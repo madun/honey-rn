@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accordion, Box, Icon } from 'native-base';
+import { Accordion, Box, Icon } from 'honey-rn';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 export const Example = () => {

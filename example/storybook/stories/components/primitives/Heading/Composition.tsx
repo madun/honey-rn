@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Text, Heading } from 'native-base';
+import { Box, Text, Heading } from 'honey-rn';
 
 export function Example() {
   return (

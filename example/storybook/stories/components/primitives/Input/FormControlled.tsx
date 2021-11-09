@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input, FormControl, WarningOutlineIcon } from 'native-base';
+import { Input, FormControl, WarningOutlineIcon } from 'honey-rn';
 
 export const Example = () => {
   return (

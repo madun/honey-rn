@@ -1,5 +1,5 @@
 import React from 'react';
-import { PresenceTransition, Box, Button, Center } from 'native-base';
+import { PresenceTransition, Box, Button, Center } from 'honey-rn';
 export const Example = () => {
   const [isOpen, setIsOpen] = React.useState(false);
 

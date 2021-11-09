@@ -7,7 +7,7 @@ import {
   HStack,
   VStack,
   Button,
-} from 'native-base';
+} from 'honey-rn';
 import { TouchableOpacity } from 'react-native';
 
 export default function Examples() {

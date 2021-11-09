@@ -1,6 +1,6 @@
 //@ts-nocheck
 import React from 'react';
-import { Box } from 'native-base';
+import { Box } from 'honey-rn';
 
 export const Example = () => {
   const myRef = React.useRef({});

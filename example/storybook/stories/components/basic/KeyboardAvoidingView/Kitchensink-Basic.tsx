@@ -6,7 +6,7 @@ import {
   Button,
   VStack,
   useBreakpointValue,
-} from 'native-base';
+} from 'honey-rn';
 import { Platform } from 'react-native';
 
 export const Example = () => {

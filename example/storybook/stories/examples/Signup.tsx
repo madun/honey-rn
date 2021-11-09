@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Box, Heading, VStack, FormControl, Input, Button } from 'native-base';
+import { Box, Heading, VStack, FormControl, Input, Button } from 'honey-rn';
 
 export const Example = () => {
   return (

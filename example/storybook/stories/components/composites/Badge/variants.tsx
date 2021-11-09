@@ -1,6 +1,6 @@
 //@ts-nocheck
 import React from 'react';
-import { Badge, HStack, VStack } from 'native-base';
+import { Badge, HStack, VStack } from 'honey-rn';
 
 export function Example() {
   return (

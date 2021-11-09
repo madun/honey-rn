@@ -5,7 +5,7 @@ import {
   extendTheme,
   Center,
   VStack,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   const theme = extendTheme({

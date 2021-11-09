@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input, Button } from 'native-base';
+import { Input, Button } from 'honey-rn';
 
 export const Example = () => {
   const [show, setShow] = React.useState(false);

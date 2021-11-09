@@ -6,7 +6,7 @@ import {
   NumberInputStepper,
   NumberIncrementStepper,
   NumberDecrementStepper,
-} from 'native-base';
+} from 'honey-rn';
 import { boolean, number, text } from '@storybook/addon-knobs';
 
 export const Example = () => {

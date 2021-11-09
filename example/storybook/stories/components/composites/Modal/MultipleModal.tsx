@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Modal, VStack, HStack, Text, Radio } from 'native-base';
+import { Button, Modal, VStack, HStack, Text, Radio } from 'honey-rn';
 import { useState } from 'react';
 
 export const Example = () => {

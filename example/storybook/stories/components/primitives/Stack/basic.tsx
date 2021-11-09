@@ -7,7 +7,7 @@ import {
   ScrollView,
   VStack,
   Divider,
-} from 'native-base';
+} from 'honey-rn';
 
 export function Example() {
   return (

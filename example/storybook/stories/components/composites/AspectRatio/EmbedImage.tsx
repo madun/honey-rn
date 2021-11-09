@@ -1,5 +1,5 @@
 import React from 'react';
-import { AspectRatio, Image } from 'native-base';
+import { AspectRatio, Image } from 'honey-rn';
 const Example = () => {
   return (
     <AspectRatio

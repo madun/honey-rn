@@ -1,5 +1,5 @@
 import React from 'react';
-import { VStack, Tabs } from 'native-base';
+import { VStack, Tabs } from 'honey-rn';
 
 export const Example = () => {
   return (

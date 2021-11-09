@@ -6,7 +6,7 @@ import {
   Button,
   Center,
   useColorModeValue,
-} from 'native-base';
+} from 'honey-rn';
 
 function UseColorMode() {
   const { toggleColorMode } = useColorMode();

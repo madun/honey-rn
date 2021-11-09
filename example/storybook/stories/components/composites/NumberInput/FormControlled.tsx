@@ -7,7 +7,7 @@ import {
   NumberInputStepper,
   NumberIncrementStepper,
   NumberDecrementStepper,
-} from 'native-base';
+} from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Link } from 'native-base';
+import { Box, Link } from 'honey-rn';
 
 export const Example = () => {
   const [state, setState] = React.useState(false);

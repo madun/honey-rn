@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pressable, Text, Box, HStack, Spacer, Flex } from 'native-base';
+import { Pressable, Text, Box, HStack, Spacer, Flex } from 'honey-rn';
 
 export function Example() {
   return (

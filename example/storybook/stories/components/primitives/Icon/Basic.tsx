@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckIcon, HStack, Text } from 'native-base';
+import { CheckIcon, HStack, Text } from 'honey-rn';
 
 export const Example = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, FormControl, Radio, WarningOutlineIcon } from 'native-base';
+import { Container, FormControl, Radio, WarningOutlineIcon } from 'honey-rn';
 
 export const Example = () => {
   const [groupValue, setGroupValue] = React.useState('1');
