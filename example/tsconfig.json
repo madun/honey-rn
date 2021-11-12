@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "native-base": ["../src/index"]
+      "honey-rn": ["../src/index"]
     },
     "allowSyntheticDefaultImports": true,
     "jsx": "react-native",
